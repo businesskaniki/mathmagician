@@ -2,6 +2,9 @@
 
 >mathmagician .
 
+### live demo
+
+[live demo](https://mathmatician.netlify.app/)
 
 ## Built With
 
